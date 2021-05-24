@@ -1,4 +1,4 @@
-OBS.: NÃO CONSEGUI FAZER FUNCIONAR NO SNACK
+OBS.: NÃO CONSEGUI FAZER FUNCIONAR NO SNACK. Se baixar pelo GitHub funciona - https://github.com/lucasnoman/TopicosRN
 
 ## Nome da aplicação
 
