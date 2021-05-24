@@ -1,3 +1,5 @@
+OBS.: NÃO CONSEGUI FAZER FUNCIONAR NO SNACK
+
 ## Nome da aplicação
 
 Minha lista
